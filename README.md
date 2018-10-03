@@ -1,8 +1,11 @@
 # menu
 
-A new Flutter project.
+[门路网](www.menu60.com).
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+* 首先下载代码
+* 用IDE打开源码目录，在命令行输入：
+> flutter packages get
+* 依赖下载完毕后即可运行：
+> flutter run
